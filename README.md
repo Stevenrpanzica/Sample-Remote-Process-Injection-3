@@ -8,6 +8,8 @@ This source code simply starts the process mspaint.exe and injects shellcode, th
 
 Be sure to run "sample3.ps1" as administrator.
 
+Note: Repetition testing shows inconsistencies with the messagebox displaying, likely due to memory allocation/values being dynamic.
+
 To see the "Function Calls Diagram.json", copy the json to the website [arrows.app](https://arrows.app).
 
 Note: The "Function Calls Diagram.json" diagram is currently incomplete due to difficulties tracking functions through .NET API's/DLL's.
