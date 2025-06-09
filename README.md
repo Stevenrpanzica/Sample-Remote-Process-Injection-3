@@ -6,7 +6,7 @@ This project is designed for educational purposes only.
 
 This source code simply starts the process mspaint.exe and injects shellcode, that opens a messagebox to display a hello message.
 
-Be sure to open mspaint.exe first, then run "sample3.ps1" as administrator.
+Be sure to run "sample3.ps1" as administrator.
 
 To see the "Function Calls Diagram.json", copy the json to the website [arrows.app](https://arrows.app).
 
